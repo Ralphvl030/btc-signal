@@ -1,0 +1,19 @@
+{
+ "rules": {
+  "SMA100 +-3% band": {
+   "hold": true,
+   "since": "2026-08-19"
+  },
+  "close>EMA100": {
+   "hold": true,
+   "since": "2026-08-19"
+  },
+  "close>SMA150": {
+   "hold": true,
+   "since": "2026-08-20"
+  }
+ },
+ "last_heartbeat": "2026-10-24T00:55:21.962765+00:00",
+ "candle": "2026-10-23",
+ "updated": "2026-10-24 00:55"
+}
